@@ -9,8 +9,9 @@
 .corpo{
     
     text-align: justify center;
-    margin-right: 5cm;
-    margin-left: 5cm;
+    margin-right: 10cm;
+    margin-left: 10cm;
+    line-height: 2.0;
     
 }
 .paragrafo{
@@ -25,8 +26,8 @@
 .subtitulo{
     font-weight: bold;
     font-size: 150%;
-    margin-left: 4cm;
 }
+
 
 
 
