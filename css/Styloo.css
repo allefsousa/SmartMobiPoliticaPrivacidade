@@ -9,8 +9,8 @@
 .corpo{
     
     text-align: justify center;
-    margin-right: 10cm;
-    margin-left: 10cm;
+    margin-right: 0 auto;
+    margin-left: 0 auto;
     line-height: 2.0;
     
 }
